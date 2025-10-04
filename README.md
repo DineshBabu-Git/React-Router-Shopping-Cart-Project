@@ -1,5 +1,5 @@
 
-# 🛒 React Shopping Cart
+# 🛒 React Router Shopping Cart
 
 A simple and responsive **Shopping Cart App** built with **React, React Router, Tailwind CSS**, and the [Fake Store API](https://fakestoreapi.com/).
 
@@ -25,7 +25,7 @@ A simple and responsive **Shopping Cart App** built with **React, React Router, 
 
 -----------------------------------------------------------------------------------
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the project and open it in VS Code.  
 2. Go to File → Open Folder.
