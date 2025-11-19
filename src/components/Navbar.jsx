@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <nav className="w-full bg-purple-800 shadow fixed">
       <div className="max-w-7xl h-20 mx-auto px-4 py-3 flex items-center justify-between">
-        <Link to="/" className="text-xl font-bold text-white">RR Shoping Cart</Link>
+        <Link to="/" className="text-xl font-bold text-white">RR Shopping Cart</Link>
         <div className="flex items-center gap-6 font-bold">
           <NavLink to="/" className="text-white hover:text-yellow-300">Products</NavLink>
           <NavLink to="/cart" className="relative text-white hover:text-yellow-300 mr-5">
